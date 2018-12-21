@@ -6,8 +6,15 @@ h1 {
 		color: #fff8dc;
 		background-color: #ff8c00; margin-top: 0px;
 		height:60px;
-
 	}
+
+
+.ramka {
+	line-height:28px;
+	background-color:white; 
+	border:1px solid black;
+      }
+
 
 h1 {font-family: arial, verdana, sans-serif;}
 h2 {font-family: "Times New Roman", serif;}

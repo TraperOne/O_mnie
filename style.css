@@ -9,7 +9,15 @@ h1 {
 	}
 
 
-.ramka {
+.blockl {
+	
+	line-height:28px;
+	background-color:white; 
+	border:1px solid black;
+      }
+
+.blockr {
+	
 	line-height:28px;
 	background-color:white; 
 	border:1px solid black;

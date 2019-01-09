@@ -6,10 +6,10 @@
     height: 800px;
 	width: 625px;
 	margin: 15px;
-	line-height: 1.5;
 	background-color: white; 
 	border: 1px solid black;
 	text-align: center;
+	line-height: 1.5;	
       }
 
 h1 {
@@ -17,11 +17,9 @@ h1 {
 	color: #fff8dc;
 	margin-top: 0px;
 	height: 60px;
-	}
-
-h1 {
 	font-family: arial, verdana, sans-serif;
 	}
+
 h2 {
 	font-family: "Times New Roman", serif;
 	}
@@ -29,4 +27,5 @@ p {
 	font-size: 18px;
 	color: #00144A;
 	text-align: center;
+	padding: 0px 10px 0px 10px;
 }

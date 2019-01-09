@@ -1,28 +1,21 @@
 ﻿body {
 	  background-color: #778899;
 	}
+       
+.child {
+        height: 800px;
+		width: 625px;
+		margin: 15px;
+		line-height: 1.5;
+		background-color: white; 
+		border: 1px solid black;
+      }
 
 h1 {
 		color: #fff8dc;
 		background-color: #ff8c00; margin-top: 0px;
-		height:60px;
+		height: 60px;
 	}
-
-
-.blockl {
-	
-	line-height:28px;
-	background-color:white; 
-	border:1px solid black;
-      }
-
-.blockr {
-	
-	line-height:28px;
-	background-color:white; 
-	border:1px solid black;
-      }
-
 
 h1 {font-family: arial, verdana, sans-serif;}
 h2 {font-family: "Times New Roman", serif;}

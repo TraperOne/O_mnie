@@ -1,21 +1,32 @@
 ﻿body {
-	  background-color: #778899;
+	background-color: #778899;
 	}
        
 .child {
-        height: 800px;
-		width: 625px;
-		margin: 15px;
-		line-height: 1.5;
-		background-color: white; 
-		border: 1px solid black;
+    height: 800px;
+	width: 625px;
+	margin: 15px;
+	line-height: 1.5;
+	background-color: white; 
+	border: 1px solid black;
+	text-align: center;
       }
 
 h1 {
-		color: #fff8dc;
-		background-color: #ff8c00; margin-top: 0px;
-		height: 60px;
+	background-color: #ff8c00; 
+	color: #fff8dc;
+	margin-top: 0px;
+	height: 60px;
 	}
 
-h1 {font-family: arial, verdana, sans-serif;}
-h2 {font-family: "Times New Roman", serif;}
+h1 {
+	font-family: arial, verdana, sans-serif;
+	}
+h2 {
+	font-family: "Times New Roman", serif;
+	}
+p {
+	font-size: 18px;
+	color: #00144A;
+	text-align: center;
+}

@@ -22,20 +22,6 @@ h1 {
 	height: 60px;
 	font-family: arial, verdana, sans-serif;
 }
-p.dashed-top {
-	border-top-style: dashed; 
-	border-width: 10px;
-	margin: 0px;
-	color: #778899;
-	background-color: #ff8c00; 
-}
-p.dashed-bottom {
-	border-top-style: dashed; 
-	border-width: 10px; 
-	margin: 0px;
-	color: #778899;
-	background-color: #ff8c00; 
-}
 h2 {
 	font-family: "Times New Roman", serif;
 }
